@@ -14,9 +14,9 @@ $colorBtn: variables.$primary;
         padding: 5px 0;
         border: none;
         color: color.complement($colorBtn);
-        background-color: color.adjust($colorBtn, $whiteness: 15%);
+        background-color: color.adjust($colorBtn, $lightness: 15%);
         &:hover {
-            background-color: color.adjust($colorBtn, $whiteness: 25%);
+            background-color: color.adjust($colorBtn, $lightness: 25%);
         }
     }
 }

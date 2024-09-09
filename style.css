@@ -41,10 +41,10 @@
   padding: 5px 0;
   border: none;
   color: #008282;
-  background-color: #822626;
+  background-color: #cf0000;
 }
 .card__btn:hover {
-  background-color: #824040;
+  background-color: #ff0303;
 }
 
 body {
