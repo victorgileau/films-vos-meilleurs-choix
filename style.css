@@ -29,6 +29,7 @@
 .card {
   padding: 5px;
   margin: 5px;
+  background-color: rgb(130, 0, 0);
 }
 .card__btn {
   font-size: 10px;

@@ -5,6 +5,7 @@
 
 .card {
     @include cards.cardStyle;
+    background-color: variables.$primary;
 }
 
 
